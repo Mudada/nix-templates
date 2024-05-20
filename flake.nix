@@ -11,6 +11,10 @@
 	path = ./zig/base;
 	description = "Basic Zig template";
       };
+      rust-bevy ={
+	path = ./rust/bevy;
+	description = "Rust with bevy";
+      };
     };
   };
 }
